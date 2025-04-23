@@ -1,11 +1,7 @@
 # News-Categorization--Naive-Bayes
 A Python ML project for classifying news articles using the Multinomial Naive Bayes algorithm. Includes data cleaning, text preprocessing, TF-IDF vectorization, model training, and evaluation. Visualizes category distribution and performance metrics. Built with scikit-learn and pandas.
 
-Sure! Here is the **detailed README** for your project in plain text (no markdown formatting):
-
----
-
-NEWS CATEGORIZATION USING NAIVE BAYES
+## NEWS CATEGORIZATION USING NAIVE BAYES
 
 This project is a machine learning-based news classification system built using the Multinomial Naive Bayes algorithm. It classifies news articles into different categories based on their content. The project demonstrates a complete NLP pipeline — from data preprocessing to model evaluation — and is ideal for beginners exploring text classification with Python.
 
