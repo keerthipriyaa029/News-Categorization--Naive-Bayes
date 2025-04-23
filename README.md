@@ -81,12 +81,3 @@ RESULTS
 - Confusion matrix visualizes model's strengths and weaknesses
 - Demonstrates the effectiveness of Naive Bayes for text classification
 
----
-
-FUTURE IMPROVEMENTS
-
-- Experiment with different algorithms (e.g., Logistic Regression, SVM)
-- Add lemmatization using NLTK or spaCy
-- Tune TF-IDF and model hyperparameters
-- Extend to support multi-label classification
-
